@@ -1,0 +1,5 @@
+1. Variables is like names. People have names. The names are not the people, but can be used to refer to the people.
+2. Strings are the text information. Example somebody's name like Alice or name/type of an animal like a dog.
+3. You put something in, you get something out: It's a pretty basic machine, you put something in your function does something to it, and you get something out
+4. The if statement checks to see if certain situations are present and then perform if it is! For example, you have soccer practice today, but if it is raining, the practice will be cancelled.
+5. A Boolean contains the value true or false. Booleans are truth values–they’re a data type that can represent one of two outcomes: true or false. Booleans answer yes-or-no questions.
